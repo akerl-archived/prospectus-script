@@ -1,5 +1,5 @@
-github.com/akerl/prospectus/v3 v3.0.0-20230120042104-38bb3b1af190 h1:VI02qEqZhmUlYA0bJEWyTJoCvNkLIaClva0PkTWtKx8=
-github.com/akerl/prospectus/v3 v3.0.0-20230120042104-38bb3b1af190/go.mod h1:9kryC2hxZtzi2SKI/UIBgXVOx0hladf2qDzkcW+xMe0=
+github.com/akerl/prospectus/v3 v3.0.1 h1:4AsrBFXhN2D1cjNBRl1I9OwrOJ7KgLhi0lcdMbx0BH4=
+github.com/akerl/prospectus/v3 v3.0.1/go.mod h1:9kryC2hxZtzi2SKI/UIBgXVOx0hladf2qDzkcW+xMe0=
 github.com/ghodss/yaml v1.0.0 h1:wQHKEahhL6wmXdzwWG11gIVCkOv05bNOh+Rxn0yngAk=
 github.com/ghodss/yaml v1.0.0/go.mod h1:4dBDuWmgqj2HViK6kFavaiC9ZROes6MMH2rRYeMEF04=
 gopkg.in/check.v1 v0.0.0-20161208181325-20d25e280405 h1:yhCVgyC4o1eVCa2tZl7eS0r+SDo693bJlVdllGtEeKM=
